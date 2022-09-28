@@ -1,6 +1,6 @@
 # scraping_insta
 
-
+最初にgit clone してください
 ## 1.使用するパッケージのインストール
 pip などで [selenium](https://selenium-python.readthedocs.io/) と [pandas](https://pandas.pydata.org/) のインストールをしてください。
 ```
