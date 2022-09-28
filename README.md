@@ -9,6 +9,8 @@ pip install selenium
 ```
 
 ## 2.chrome driverのインストール
+`mkdir output`などでdriverフォルダーを作成してください
+
 [ChromeDriver](https://chromedriver.chromium.org/downloads)から自分が使っているchromeのバージョンに一番近いdriverをインストールしてdriverフォルダーに入れてください
 
 [chromeのバージョンの確認の仕方](https://www.google.com/intl/ja/chrome/update/)
