@@ -11,12 +11,16 @@ pip install selenium
 ## 2.chrome driverのインストール
 `mkdir output`などでdriverフォルダーを作成してください
 
-[ChromeDriver](https://chromedriver.chromium.org/downloads)から自分が使っているchromeのバージョンに一番近いdriverをインストールしてdriverフォルダーに入れてください
+[ChromeDriver](https://chromedriver.chromium.org/downloads)から自分が使っているchromeのバージョンに一番近いdriverをインストールして
+
+解凍したのちdriverフォルダーに入れてください
 
 [chromeのバージョンの確認の仕方](https://www.google.com/intl/ja/chrome/update/)
 
-入っているdriverは上書きしてください
-
+※Macの場合はchrome driverのpathを変更する必要があるかも
+"""
+CHROMEDRIVER = "driver/chromedriver"
+"""
 ## 3.インスタのユーザー名とパスワードの設定
 insta.pyの中にある
 ```
