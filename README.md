@@ -1,6 +1,8 @@
 # scraping_insta
 
 最初にgit clone してください
+
+
 ## 1.使用するパッケージのインストール
 pip などで [selenium](https://selenium-python.readthedocs.io/) と [pandas](https://pandas.pydata.org/) のインストールをしてください。
 ```
@@ -49,3 +51,7 @@ keywords=["cheesecheesecafe","bardelcloe","六花亭","benbencafe","カフェ美
 `mkdir output`などでoutputフォルダーを作成してください
 
 作成しないとcsvファイルが出力されません
+
+
+## 注意
+動作中のchrome画面を動かすと正常に機能しない場合があります
