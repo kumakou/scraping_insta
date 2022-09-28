@@ -18,9 +18,9 @@ pip install selenium
 [chromeのバージョンの確認の仕方](https://www.google.com/intl/ja/chrome/update/)
 
 ※Macの場合はchrome driverのpathを変更する必要があるかも
-"""
+```
 CHROMEDRIVER = "driver/chromedriver"
-"""
+```
 ## 3.インスタのユーザー名とパスワードの設定
 insta.pyの中にある
 ```
